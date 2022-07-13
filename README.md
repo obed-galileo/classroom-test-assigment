@@ -1,4 +1,4 @@
-#Tarea de Prueba
+# Tarea de Prueba
 
 Esta tarea consiste en que el estudiante aprenda a utilizar github classroom, para que se cree un repositorio nuevo para su tarea y cada vez suba su solucion esta sea calificada automaticamente segun los criterios definidos. Para este repositorio se le pide que ubique el archivo `code.R`, el cual tiene la siguiente funcion:
 
